@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Raleway:wght@100;400;700&display=swap');
+/*
+font-family: 'Emilys Candy', cursive;
+font-family: 'Raleway', sans-serif;
+*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-image: url(img/background.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container{
+    width: 900px;
+    margin: auto;
+}
+
+.pag{
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tittle h1{
+    padding-top: 80px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    font-family: 'Emilys Candy', cursive;
+}
+
+.tittle h2{
+    font-family: 'Raleway', sans-serif;
+    padding-left: 50px;
+    padding-bottom: 70px;
+}
+
+.inicio img{
+    padding-left: 50px;
+    padding-bottom: 40px;
+    width: 320px;
+    height: 256px;
+}
+
+.introduction p{
+    padding-left: 50px;
+    padding-right: 300px;
+    padding-bottom: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.8em;
+}
+
+.ciudades{
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+.ciudades h3{
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 30px;
+}
+
+.ciudades p{
+    padding-right: 300px;
+    padding-bottom: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.9em;
+}
+
+.ciudades img{
+    padding-bottom: 50px;
+    width: 320px;
+    height: 202px;
+}
+
+.NewYork img{
+    width: 213px;
+    height: 320px;
+}
+
+.final{
+    padding-left: 50px;
+}
+
+.final h4{
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 20px;
+}
+
+.final p{
+    padding-right: 300px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.8em;
+    padding-bottom: 50px;
+}
